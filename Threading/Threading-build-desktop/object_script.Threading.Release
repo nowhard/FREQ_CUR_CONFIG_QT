@@ -1,0 +1,15 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/input_thread.o
+./release/output_thread.o
+./release/dialog_com.o
+./release/delegate.o
+./release/proto_uso.o
+./release/moc_mainwindow.o
+./release/moc_input_thread.o
+./release/moc_output_thread.o
+./release/moc_dialog_com.o
+./release/moc_delegate.o
+./release/moc_proto_uso.o
+);

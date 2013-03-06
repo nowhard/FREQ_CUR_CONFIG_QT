@@ -1,0 +1,16 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/input_thread.o
+./release/output_thread.o
+./release/modbus_rtu.o
+./release/mb_register.o
+./release/dialog_com.o
+./release/modbus_ascii.o
+./release/moc_mainwindow.o
+./release/moc_input_thread.o
+./release/moc_output_thread.o
+./release/moc_modbus_rtu.o
+./release/moc_dialog_com.o
+./release/moc_modbus_ascii.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/input_thread.o
+./debug/output_thread.o
+./debug/modbus_rtu.o
+./debug/mb_register.o
+./debug/dialog_com.o
+./debug/modbus_ascii.o
+./debug/moc_mainwindow.o
+./debug/moc_input_thread.o
+./debug/moc_output_thread.o
+./debug/moc_modbus_rtu.o
+./debug/moc_dialog_com.o
+./debug/moc_modbus_ascii.o
+);
